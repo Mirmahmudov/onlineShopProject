@@ -1,0 +1,29 @@
+.category {
+  padding: 30px 60px;
+}
+
+.category h2 {
+  margin-bottom: 20px;
+}
+
+.category-list {
+  display: flex;
+  gap: 20px;
+}
+
+.category-card {
+  width: 180px;
+  border: 1px solid #eee;
+  text-align: center;
+  padding: 15px;
+  background: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.category-card img {
+  width: 80px;
+  margin-bottom: 10px;
+}
