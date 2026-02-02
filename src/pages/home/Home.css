@@ -1,6 +1,6 @@
 .three .container .recomend {
-  /* display: flex;
-  justify-content: space-between; */
+  display: flex;
+  justify-content: space-between;
 }
 .sarlavha {
   display: flex;
