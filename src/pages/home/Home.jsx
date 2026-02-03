@@ -37,7 +37,7 @@ function Home() {
               <span>Посмотреть все →</span>
             </div>
             <div className="recomend">
-              <img src="./public/newHotRus 1.svg" alt="" />
+              <img src="./public/imgs/newHotRus 1.svg" alt="" />
               <Product />
             </div>
           </div>
@@ -45,7 +45,7 @@ function Home() {
         <section className="four">
           <div className="container">
             <div className="card">
-              <img src="./public/Layer 48 copy 1.svg" alt="" />
+              <img src="./public/imgs/Layer 48 copy 1.svg" alt="" />
             </div>
           </div>
         </section>

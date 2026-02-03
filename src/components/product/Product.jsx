@@ -10,7 +10,10 @@ function Product() {
       <div className="product-card">
         <div className="discount">-30%</div>
 
-        <img src="/lWGeSFc0Y6jBoVxA4hQw-home_default 1.svg" alt="product" />
+        <img
+          src="./public/imgs/lWGeSFc0Y6jBoVxA4hQw-home_default 1.svg"
+          alt="product"
+        />
 
         <p className="product-name">TECNO Spark 6 Go 3/64GB</p>
 

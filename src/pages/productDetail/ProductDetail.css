@@ -1,0 +1,128 @@
+.productdet .container .info {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+}
+.imgs {
+  width: 50%;
+  padding: 20px;
+}
+.big {
+  width: 80%;
+}
+.smallimg {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.smallimg img {
+  width: 20%;
+}
+.detail h1 {
+  font-family: Gotham Pro;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 36px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  padding: 20px 0px;
+}
+.detail h2 {
+  font-family: Gotham Pro;
+  font-weight: 400;
+  font-style: Medium;
+  font-size: 20px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.icons {
+  width: 30%;
+  cursor: pointer;
+  padding: 20px;
+}
+.btns .seychas {
+  background-color: #ed3729;
+  color: white;
+  padding: 10px 20px;
+  border: #ed3729 2px solid;
+  margin: 20px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.btns .rassrochku {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: black 2px solid;
+  margin: 20px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.rassrochku:hover,
+.seychas:hover {
+  background-color: transparent;
+  color: black;
+}
+.outhers {
+  margin: 0 auto;
+  text-align: center;
+}
+.outhers h1 {
+  padding: 20px;
+  font-family: Gotham Pro;
+  font-weight: 400;
+  font-style: Medium;
+  font-size: 24px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.sec {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50%;
+  margin: 0 auto;
+  border-top: 2px solid gray;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.sec:hover {
+  background-color: whitesmoke;
+}
+.sec h2 {
+  font-family: Gotham Pro;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14px;
+  leading-trim: NONE;
+  line-height: 180%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #909090;
+}
+.sec p {
+  font-family: Gotham Pro;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14px;
+  leading-trim: NONE;
+  line-height: 180%;
+  letter-spacing: 0%;
+}
+.back {
+  background-color: #ed3729;
+  padding: 10px 20px;
+  color: white;
+  cursor: pointer;
+  width: 180px;
+  margin: 20px;
+  border-radius: 5px;
+}
+.back:hover {
+  background-color: transparent;
+  color: #ed3729;
+}
