@@ -25,16 +25,16 @@ function MySwiper() {
       className="mySwiper"
     >
       <SwiperSlide>
-        <img src="../public/75huylFjILwQmN7lrs89 1.svg" alt="" />
+        <img src="../public/imgs/75huylFjILwQmN7lrs89 1.svg" alt="" />
       </SwiperSlide>
       <SwiperSlide>
-        <img src="../public/75huylFjILwQmN7lrs89 1.svg" alt="" />
+        <img src="../public/imgs/75huylFjILwQmN7lrs89 1.svg" alt="" />
       </SwiperSlide>{" "}
       <SwiperSlide>
-        <img src="../public/75huylFjILwQmN7lrs89 1.svg" alt="" />
+        <img src="../public/imgs/75huylFjILwQmN7lrs89 1.svg" alt="" />
       </SwiperSlide>{" "}
       <SwiperSlide>
-        <img src="../public/75huylFjILwQmN7lrs89 1.svg" alt="" />
+        <img src="../public/imgs/75huylFjILwQmN7lrs89 1.svg" alt="" />
       </SwiperSlide>
     </Swiper>
   );
